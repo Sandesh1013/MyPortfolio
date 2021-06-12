@@ -699,10 +699,12 @@ input, select, textarea {
 			display: block;
 			margin: 2.5rem 0;
 			width: 100%;
+			height: 80%;
 		}
 
 			.image.main img {
 				width: 100%;
+				height: 80%;
 			}
 
 		@media screen and (max-width: 736px) {
